@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_web-developer-blog/static/css/main.9de99d90.css",
+    "main.js": "/react_web-developer-blog/static/js/main.2921c2e2.js",
+    "static/js/787.af09dd91.chunk.js": "/react_web-developer-blog/static/js/787.af09dd91.chunk.js",
+    "static/media/slide2.jpg": "/react_web-developer-blog/static/media/slide2.283ac91231405e505646.jpg",
+    "static/media/slide3.jpg": "/react_web-developer-blog/static/media/slide3.8038b3882b9bd22b31c5.jpg",
+    "static/media/slide1.jpg": "/react_web-developer-blog/static/media/slide1.22648998bb0b176e5636.jpg",
+    "static/media/logo.svg": "/react_web-developer-blog/static/media/logo.958e7d840a62824b0702aa1b181b51d9.svg",
+    "index.html": "/react_web-developer-blog/index.html",
+    "main.9de99d90.css.map": "/react_web-developer-blog/static/css/main.9de99d90.css.map",
+    "main.2921c2e2.js.map": "/react_web-developer-blog/static/js/main.2921c2e2.js.map",
+    "787.af09dd91.chunk.js.map": "/react_web-developer-blog/static/js/787.af09dd91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de99d90.css",
+    "static/js/main.2921c2e2.js"
+  ]
+}
